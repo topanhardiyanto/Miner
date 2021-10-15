@@ -1,0 +1,2 @@
+# Miner
+Verus miner.sh
